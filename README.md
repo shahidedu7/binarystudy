@@ -1,3 +1,3 @@
-# binarystudy.github.io
+# binarystudy
 Computer Vision | Deep Learning
 this is my test page to github page

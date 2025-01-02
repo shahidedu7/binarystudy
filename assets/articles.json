@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding Linear Regression",
+    "summary": "An introductory guide to one of the simplest machine learning algorithms.",
+    "url": "#"
+  },
+  {
+    "id": 2,
+    "title": "Exploring Decision Trees",
+    "summary": "A step-by-step explanation of how decision trees work.",
+    "url": "#"
+  },
+  {
+    "id": 3,
+    "title": "An Overview of Neural Networks",
+    "summary": "Discover the basics of neural networks and their applications.",
+    "url": "#"
+  },
+  {
+    "id": 4,
+    "title": "Clustering with K-Means",
+    "summary": "Learn how to group data points using the K-Means algorithm.",
+    "url": "#"
+  },
+  {
+    "id": 5,
+    "title": "Introduction to Support Vector Machines",
+    "summary": "A beginner-friendly introduction to SVMs.",
+    "url": "#"
+  }
+]

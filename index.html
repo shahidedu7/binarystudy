@@ -43,13 +43,33 @@
 
 <!-- Blog Section -->
 <div class="container my-5">
-    <div id="articles-container" class="row"></div>
+    <div class="row">
+        <!-- Sidebar -->
+        <div class="col-md-3">
+            <div class="list-group">
+                <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
+                    Categories
+                </a>
+                <a href="#linear-regression" class="list-group-item list-group-item-action">Linear Regression</a>
+                <a href="#decision-trees" class="list-group-item list-group-item-action">Decision Trees</a>
+                <a href="#neural-networks" class="list-group-item list-group-item-action">Neural Networks</a>
+                <a href="#clustering" class="list-group-item list-group-item-action">Clustering</a>
+                <a href="#svm" class="list-group-item list-group-item-action">Support Vector Machines</a>
+            </div>
+        </div>
 
-    <!-- Pagination -->
-    <nav aria-label="Page navigation" class="mt-4">
-        <ul id="pagination" class="pagination justify-content-center"></ul>
-    </nav>
+        <!-- Blog Articles -->
+        <div class="col-md-9">
+            <div id="articles-container" class="row"></div>
+
+            <!-- Pagination -->
+            <nav aria-label="Page navigation" class="mt-4">
+                <ul id="pagination" class="pagination justify-content-center"></ul>
+            </nav>
+        </div>
+    </div>
 </div>
+
 
 <!-- Footer -->
 <footer class="bg-dark text-white text-center py-3">

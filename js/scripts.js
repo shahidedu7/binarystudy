@@ -22,6 +22,7 @@ function renderArticles(articles, page) {
 
     paginatedArticles.forEach(article => {
         articlesContainer.innerHTML += `
+            <div class="col-md-6 mb-4">
                 <div class="card post-card mb-4">
                     <div class="card-body">
                         <h5 class="card-title">${article.title}</h5>
@@ -29,6 +30,7 @@ function renderArticles(articles, page) {
                         <a href="${article.url}" class="btn btn-primary">Read More</a>
                     </div>
                 </div>
+            </div>
         `;
     });
 }

@@ -12,4 +12,4 @@ A modern blog layout for publishing machine learning tutorials. Built with HTML,
 2. Open `index.html` in your favorite browser.
 
 ## Live Demo
-The live blog is hosted on GitHub Pages. Visit: [Your GitHub Pages URL](https://yourusername.github.io/ml-blog/)
+The live blog is hosted on GitHub Pages. Visit: [Your GitHub Pages URL](https://shahidedu7.github.io/binarystudy/)

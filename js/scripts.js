@@ -3,8 +3,12 @@ let currentPage = 1;
 
 // Function to fetch articles from JSON file
 async function fetchArticles() {
-    const response = await fetch('./assets/articles.json');
-    return await response.json();
+    try {
+        const response = await fetch('./assets/articles.json');
+        return await response.json();
+    } catch (error) {
+        console.error("Error fetching articles:", error);
+    }
 }
 
 // Function to render articles
@@ -59,6 +63,8 @@ function renderPagination(articles) {
 // Initialize
 (async function init() {
     const articles = await fetchArticles();
-    renderArticles(articles, currentPage);
-    renderPagination(articles);
+    if (articles) {
+        renderArticles(articles, currentPage);
+        renderPagination(articles);
+    }
 })();

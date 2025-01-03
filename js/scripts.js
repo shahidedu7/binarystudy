@@ -22,7 +22,7 @@ function renderArticles(articles, page) {
 
     paginatedArticles.forEach(article => {
         articlesContainer.innerHTML += `
-            <div class="col-md-6 mb-4">
+            <div class="col-md-12 mb-4">
                 <div class="card post-card mb-4">
                     <div class="card-body">
                         <h5 class="card-title">${article.title}</h5>

@@ -1,4 +1,4 @@
-# Machine Learning Blog
+# BinaryStudy - Machine Learning Blog
 A modern blog layout for publishing machine learning tutorials. Built with HTML, Bootstrap, and custom CSS.
 
 ## Features

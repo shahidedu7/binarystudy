@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Assistant Professor - Computer Science",
+        "location": "Stanford University",
+        "description": "Teaching undergraduate courses in computer science and conducting research.",
+        "url": "https://www.stanford.edu/jobs/assistant-professor-cs"
+    },
+    {
+        "title": "Research Analyst",
+        "location": "Harvard University",
+        "description": "Analyze large datasets and publish findings in reputed journals.",
+        "url": "https://www.harvard.edu/jobs/research-analyst"
+    },
+    {
+        "title": "Postdoctoral Fellow",
+        "location": "MIT",
+        "description": "Work on advanced AI algorithms and mentor graduate students.",
+        "url": "https://www.mit.edu/jobs/postdoc-ai"
+    },
+    {
+        "title": "Lecturer - Data Science",
+        "location": "University of Oxford",
+        "description": "Deliver lectures and supervise postgraduate students in the field of data science.",
+        "url": "https://www.ox.ac.uk/jobs/lecturer-data-science"
+    },
+    {
+        "title": "Senior Researcher - Robotics",
+        "location": "Carnegie Mellon University",
+        "description": "Lead robotics research projects and manage interdisciplinary teams.",
+        "url": "https://www.cmu.edu/jobs/senior-researcher-robotics"
+    },
+    {
+        "title": "Assistant Professor - Machine Learning",
+        "location": "University of Cambridge",
+        "description": "Teach courses and conduct research in machine learning and related areas.",
+        "url": "https://www.cam.ac.uk/jobs/assistant-professor-ml"
+    },
+    {
+        "title": "Visiting Scholar - Artificial Intelligence",
+        "location": "University of California, Berkeley",
+        "description": "Collaborate with AI labs on innovative research projects.",
+        "url": "https://www.berkeley.edu/jobs/visiting-scholar-ai"
+    },
+    {
+        "title": "Research Scientist",
+        "location": "Google AI",
+        "description": "Develop state-of-the-art AI systems and collaborate on innovative projects.",
+        "url": "https://careers.google.com/jobs/research-scientist"
+    },
+    {
+        "title": "Postdoc - Quantum Computing",
+        "location": "IBM Research",
+        "description": "Explore and advance the field of quantum computing.",
+        "url": "https://www.ibm.com/jobs/postdoc-quantum-computing"
+    },
+    {
+        "title": "Graduate Assistant - Physics",
+        "location": "California Institute of Technology",
+        "description": "Assist professors in teaching and research in physics.",
+        "url": "https://www.caltech.edu/jobs/graduate-assistant-physics"
+    }
+]

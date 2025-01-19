@@ -13,4 +13,5 @@ A modern blog layout for publishing machine learning tutorials. Built with HTML,
 
 ## Live Demo
 The live blog is hosted on GitHub Pages. Visit: [Binary Study](https://shahidedu7.github.io/binarystudy/)
+
 https://www.intodeeplearning.com/
